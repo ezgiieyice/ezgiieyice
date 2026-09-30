@@ -1,9 +1,9 @@
 # Hi, I'm Ezgi Eyice 👋
 
-M.Sc. Computer Science (Informatik) student at the **Karlsruhe Institute of Technology (KIT)** with a background in computer engineering.
-I'm interested in **machine learning and computer vision**: building models that understand images and turning them into working software.
+I'm an M.Sc. Computer Science (Informatik) student at the **Karlsruhe Institute of Technology (KIT)** with a background in computer engineering.
+I work on **machine learning, NLP and computer vision**: I analyze how language models work internally, fine-tune them, and turn models into working software.
 
-🔍 **Open to Werkstudent positions** in ML, computer vision or software development in the Karlsruhe area or remote.
+🔍 **Open to Werkstudent positions** in ML, NLP, computer vision or software development in the Karlsruhe area or remote.
 
 ---
 
@@ -12,9 +12,11 @@ I'm interested in **machine learning and computer vision**: building models that
 | Area | Tools |
 |------|-------|
 | **Languages** | Python, Java, C# |
-| **ML & Computer Vision** | YOLOv3, CNNs, scikit-learn, Jupyter |
-| **Web** | ASP.NET MVC |
-| **Tools** | Git, IntelliJ IDEA, Visual Studio |
+| **ML & Deep Learning** | PyTorch, TensorFlow/Keras, scikit-learn |
+| **NLP & LLMs** | Hugging Face Transformers, PEFT (LoRA), TRL, Sentence-Transformers, prompt engineering |
+| **Computer Vision** | YOLOv3, CNNs |
+| **Data** | pandas, NumPy, Matplotlib, Seaborn, Jupyter |
+| **Web & Tools** | ASP.NET MVC, Git, IntelliJ IDEA, Visual Studio |
 
 ---
 
@@ -22,9 +24,12 @@ I'm interested in **machine learning and computer vision**: building models that
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Traffic Sign Detection & Recognition**](https://github.com/ezgiieyice/Detection-and-Recognition-of-Traffic-Signs) | Two-stage pipeline: YOLOv3 locates traffic signs in an image and a CNN classifies them with **97% accuracy**. | Python, YOLOv3, CNN |
-| [**Virtual Library**](https://github.com/ezgiieyice/VirtualLibrarySWE) | Web app for reading Project Gutenberg books, with user accounts, personal bookshelves and reading progress. Includes unit tests. | C#, ASP.NET MVC |
-| [**Phone Operator Simulation**](https://github.com/ezgiieyice/Phone-Operator) | Simulation of a phone exchange where two operators route calls between 40 callers over a single line, using queue-based scheduling. | Java, Data Structures |
+| [**LLM Attention for Sentiment Analysis**](https://github.com/ezgiieyice/llm-attention-sentiment-analysis) | Uses the attention matrices of BERT and Turkish-Gemma-9B as features for sentiment classification. Gemma's attention alone reaches **80.5% accuracy**. | PyTorch, Transformers, scikit-learn |
+| [**LoRA Fine-Tuning: GPT-4o vs. DeepSeek**](https://github.com/ezgiieyice/turkish-gpt2-lora-finetuning) | Instruction-tunes Turkish GPT-2 (medium/large) with LoRA on 13.9K questions and compares GPT-4o and DeepSeek answers as training data. | PEFT, TRL, Transformers |
+| [**Ensemble Embeddings for Semantic Search**](https://github.com/ezgiieyice/ensemble-embeddings-semantic-search) | Benchmarks 5 embedding models and 4 ensemble methods for Turkish question–answer retrieval. bge-m3 reaches **76% Top-1**. | Sentence-Transformers, FlagEmbedding |
+| [**Traffic Sign Detection & Recognition**](https://github.com/ezgiieyice/Detection-and-Recognition-of-Traffic-Signs) | Two-stage pipeline: YOLOv3 finds traffic signs in an image and a CNN classifies them with **97% accuracy**. | Python, YOLOv3, CNN |
+| [**NLP & ML Experiments**](https://github.com/ezgiieyice/nlp-experiments) | Few-shot prompting of 4 Turkish LLMs, an embedding benchmark, text classification and an optimizer comparison. | Transformers, TensorFlow |
+| [**Virtual Library**](https://github.com/ezgiieyice/VirtualLibrarySWE) | Web app for reading Project Gutenberg books, with user accounts and personal bookshelves. Includes unit tests. | C#, ASP.NET MVC |
 
 ---
 
