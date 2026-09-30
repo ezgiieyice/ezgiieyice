@@ -1,5 +1,7 @@
 # Hi, I'm Ezgi Eyice 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=ezgiieyice&color=blueviolet&style=flat-square)
+
 I'm an M.Sc. Computer Science (Informatik) student at the **Karlsruhe Institute of Technology (KIT)** with a background in computer engineering.
 I work on **machine learning, NLP and computer vision**: I analyze how language models work internally, fine-tune them, and turn models into working software.
 
