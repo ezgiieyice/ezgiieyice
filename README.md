@@ -1,6 +1,6 @@
 # Hi, I'm Ezgi Eyice 👋
 
-I'm an M.Sc. Computer Science (Informatik) student at the **Karlsruhe Institute of Technology (KIT)** with a background in computer engineering.
+I'm an M.Sc. Computer Science (Informatik) student with a background in computer engineering.
 I work on **machine learning, NLP and computer vision**: I analyze how language models work internally, fine-tune them, and turn models into working software.
 
 🔍 **Open to Werkstudent positions** in ML, NLP, computer vision or software development in the Karlsruhe area or remote.
